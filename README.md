@@ -1,1 +1,1 @@
-# goit-markup-hw-06-main
+# goit-markup-hw-06
